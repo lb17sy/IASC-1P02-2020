@@ -1,0 +1,18 @@
+body{
+	color:red;
+	font-size:20px;
+  background-color: black;
+}
+
+.giant{
+	font-size:50px;
+}
+
+.bluePara{
+  color: blue;
+}
+
+#jollyGreen{
+	color:green;
+	text-decoration:underline;
+}
