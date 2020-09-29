@@ -1,0 +1,39 @@
+.box{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin: 10px 10px 0px 10px;
+  border: purple 3px dotted;
+}
+
+.boxP{
+  margin: 100px 0% 20px 43%;
+  padding-top: 130px;
+}
+
+#smallGreen{
+  color: green;
+  margin: 10px 0% 20px 45%;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.bigYellow{
+  color: orange;
+  font-size: 24px;
+}
+
+.smallPurple{
+  color: purple;
+  font-size: 6px;
+  padding-left: 93%;
+}
+
+/* I can not figure out why it won't raise the red text higher than the orange text */
+#redText{
+  color: red;
+  margin-top: 10px;
+}
+
+#yellowText{
+  color: yellow;
+}
