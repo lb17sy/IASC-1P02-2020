@@ -26,10 +26,9 @@
 .smallPurple{
   color: purple;
   font-size: 6px;
-  padding-left: 93%;
+  text-align: right;
 }
 
-/* I can not figure out why it won't raise the red text higher than the orange text */
 #redText{
   color: red;
   font-size: 20px;
