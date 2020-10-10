@@ -1,0 +1,40 @@
+body{
+  background-color: white;
+}
+
+div p{
+  color: white;
+  padding-top: 10px;
+  font-size: small;
+}
+
+#wrapper{
+  width: inherit;
+  margin: 0px -8px 0px -8px;
+}
+
+#header{
+  height: 60px;
+  margin-top: -10px;
+  text-align: center;
+  background-color: red;
+}
+
+#header p{
+  font-size: large;
+  font-weight: bold;
+  padding-top: 15px
+}
+
+#content{
+  height: 500px;
+  margin-top: -21px;
+  background-color: green;
+}
+
+#footer{
+  height: 60px;
+  margin-top: -16px;
+  background-color: blue;
+  clear:both;
+}

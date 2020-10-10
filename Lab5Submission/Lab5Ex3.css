@@ -1,0 +1,40 @@
+body{
+  background-color: white;
+}
+
+#wrapperOne{
+  width: inherit;
+  height: 912px;
+  background-color: green;
+  margin:0 auto;
+}
+
+#wrapperTwo{
+  width: 1200px;
+  background-color: none;
+  margin:0 auto;
+}
+
+#noteOne{
+  height: 260px;
+  width: 260px;
+  float: left;
+  background-color: blue;
+  margin: 10px 0px 0px 100px;
+}
+
+#noteTwo{
+  height: 260px;
+  width: 260px;
+  float: right;
+  background-color: red;
+  margin: 10px 100px 0px 0px;
+}
+
+#noteThree{
+  height: 260px;
+  width: 260px;
+  background-color: yellow;
+  margin-left: 470px;
+  clear: both;
+}

@@ -1,0 +1,47 @@
+body{
+  background-color: Green;
+}
+
+#wrapper p{
+  font-weight: bold;
+}
+
+#wrapper{
+  width: 750px;
+background-color: white;
+  margin:0 auto;
+}
+
+#header{
+  height: 80px;
+  margin-top: -21px;
+  text-align: center;
+  background-color: red;
+}
+
+#leftNav{
+  float:left;
+  height: 70px;
+  background-color: pink;
+  width: 200px;
+}
+
+#rightNav{
+  float:right;
+  height: 70px;
+  background-color: orange;
+  width: 550px;
+}
+
+#content{
+  height: 500px;
+  width: 750px;
+  background-color: blue;
+}
+
+#footer{
+  height: 50px;
+  margin-top: -15px;
+  background-color: yellow;
+  clear:both;
+}
