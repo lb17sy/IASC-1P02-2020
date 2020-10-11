@@ -1,0 +1,32 @@
+.subHeader{
+  color: red;
+}
+
+h1.subHeader{
+  color: Orange;
+  position: absolute;
+}
+
+.large{
+  font-size: large;
+}
+
+.difFont{
+  font-style: italic;
+}
+
+.caseChange{
+  text-transform: uppercase;
+}
+
+ul,ol{
+  background-color: green;
+  position: relative;
+}
+
+.box{
+  margin: 50px 10px 40px 10px;
+  border: black 2px dotted;
+  padding: 0px 350px 0px 350px;
+  position: fixed;
+}
