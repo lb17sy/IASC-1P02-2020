@@ -1,0 +1,84 @@
+#wrapper{
+    width:1000px;
+    height:600px;
+    background-color:black;
+    margin: 0 auto;
+}
+
+#title{
+  text-align: center;
+  color: white;
+}
+
+#header{
+    width: 750px;
+    height: 100px;
+    //float: left;
+    background-color:yellow;
+}
+
+h3{
+  background-color:white;
+  display:inline;
+  float: left;
+  padding-left: 20px;
+}
+
+#info{
+    width: 250px;
+    float: left;
+    height: 482px;
+    background-color:lightblue;
+  }
+
+#info p{
+  background-color: lightgrey;
+  height: 400px;
+  width:230px;
+  text-align: center;
+}
+
+#main{
+    width: 750px;
+    float: left;
+    height: 482px;
+    background-color:darkgrey;
+}
+
+h4{
+  text-decoration: underline;
+  padding-left: 10px;
+}
+
+#searchText{
+  text-align: center;
+  font-size: 14px;
+  color: black;
+}
+
+.spacer{
+  width: 260px;
+  height: 60px;
+  float: left;
+}
+
+#bar{
+  width: 200px;
+  background-color: white;
+  float: left;
+}
+
+#button{
+  float: left;
+}
+
+.list{
+  width: 187.5px;
+  height: 340px;
+  background-color: inherit;
+  float: left;
+}
+
+.list h2{
+  text-align: center;
+}
